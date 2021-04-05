@@ -161,3 +161,31 @@ nav .profile-link a {
     padding: 10px 15px;
     font-size: 12px;
 }
+
+.blogs-posts-container .post-container {
+    display: inline-block;
+    padding-left: 10px;
+    max-width: 30%;
+    margin-bottom: 50px;
+}
+
+.blogs-posts-container .post-container p {
+    margin-bottom: 35px;
+}
+
+.blogs-posts-container .post-container img {
+    width: 100%;
+}
+
+footer {
+    width: 100%;
+    height: 80px;
+    background-color: #22272d;
+    border-top: 35px solid #47cfac;
+}
+
+footer p{
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
